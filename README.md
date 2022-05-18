@@ -62,7 +62,7 @@ The output after the program is executed should look something like this:
 ```
 $|
 ```
-Where you will get a prompt in the shape of a dollar sign so you can start typing commands into your shell.  Agood example of how it should execute is the command shown above were the user enters 'ls' and then gets a list of the directory contents.
+Where you will get a prompt in the shape of a dollar sign so you can start typing commands into your shell.  A good example of how it should execute is the command shown above were the user enters 'ls' and then gets a list of the directory contents.
 ## Function Prototypes:
 
 Brief description of functions contained in project:
