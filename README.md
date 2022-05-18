@@ -88,6 +88,6 @@ README.md: this.
 
 ### Contact Info:
 
-Git: [Abel Berhanu](https://github.com/abela12), [Amir Mohammed]
+Git: [Abel Berhanu](https://github.com/abela12), [Amir Mohammed](https://github.com/amirmohammed841)
 
 
